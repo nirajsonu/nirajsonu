@@ -4,7 +4,7 @@
 👉 <a href="https://stackoverflow.com/users/10371677/neerajkumarkeshri">StackoverFlow</a><br>
 👉 <a href="https://nirajsonu.github.io/Neeraj_kumar_keshri/index.html.html">Website</a><br>
 
-Live Projects
+<b>Live Projects</b>
 
 <b>Tagore School Management App<b><br>
   
