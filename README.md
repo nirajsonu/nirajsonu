@@ -6,7 +6,7 @@
 
 <b>Live Projects on Google play store</b>
 
-<b>Tagore School Management App<b><br>
+🏫 <b>Tagore School Management App<b><br>
   
 ⏩ https://play.google.com/store/apps/details?id=com.admin_tagore<br>
 
@@ -14,11 +14,11 @@
 
 ⏩ https://play.google.com/store/apps/details?id=com.parent_tagore<br>
 
-<b>Web Browser app<b><br>
+🌐 <b>Web Browser app<b><br>
   
 ⏩ https://play.google.com/store/apps/details?id=io.kodular.ankitashikashsingh.UnityAds
 
-<b>Etoos India E-Learning App<b><br>
+🎓 <b>Etoos India E-Learning App<b><br>
   
 ⏩ https://play.google.com/store/apps/details?id=com.etoos.india.app
 
