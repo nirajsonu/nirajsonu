@@ -21,8 +21,14 @@
 🎓 <b>Etoos India E-Learning App<b><br>
   
 ⏩ https://play.google.com/store/apps/details?id=com.etoos.india.app
+  
+🏋️ <b>IIFM fitness App<b><br>
+  
+⏩ https://play.google.com/store/apps/details?id=com.IIFEM.main.app
+  
 
  📝 <b>Android Notes</b><br>
   
 ⏩ https://onedrive.live.com/embed?cid=36E6791FEFF6B45C&resid=36E6791FEFF6B45C%211295&authkey=AOZbEP_6PBpwrZ8
+  
 
