@@ -14,9 +14,9 @@
 
 ⏩ https://play.google.com/store/apps/details?id=com.parent_tagore<br>
 
-🌐 <b>Web Browser app<b><br>
+🌐 <b>Nimbus App Academy<b><br>
   
-⏩ https://play.google.com/store/apps/details?id=io.kodular.ankitashikashsingh.UnityAds
+⏩ https://play.google.com/store/apps/details?id=com.nimbus.academy.app
 
 🎓 <b>Etoos India E-Learning App<b><br>
   
