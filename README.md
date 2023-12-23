@@ -4,31 +4,6 @@
 👉 <a href="https://stackoverflow.com/users/10371677/neerajkumarkeshri"><b>StackoverFlow</b></a><br>
 👉 <a href="https://nirajsonu.github.io/Neeraj_kumar_keshri/index.html.html"><b>Website</b></a><br>
 
-<b>Live Projects on Google play store</b>
-
-🏫 <b>Tagore School Management App<b><br>
   
-⏩ https://play.google.com/store/apps/details?id=com.admin_tagore<br>
-
-⏩ https://play.google.com/store/apps/details?id=com.truevalueinfosoft.tagore_teacher<br>
-
-⏩ https://play.google.com/store/apps/details?id=com.parent_tagore<br>
-
-🌐 <b>Nimbus App Academy<b><br>
-  
-⏩ https://play.google.com/store/apps/details?id=com.nimbus.academy.app
-
-🎓 <b>Etoos India E-Learning App<b><br>
-  
-⏩ https://play.google.com/store/apps/details?id=com.etoos.india.app
-  
-🏋️ <b>IIFM fitness App<b><br>
-  
-⏩ https://play.google.com/store/apps/details?id=com.IIFEM.main.app
-  
-
- 📝 <b>Android Notes</b><br>
-  
-⏩ https://onedrive.live.com/embed?cid=36E6791FEFF6B45C&resid=36E6791FEFF6B45C%211295&authkey=AOZbEP_6PBpwrZ8
   
 
